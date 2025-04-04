@@ -1,0 +1,12 @@
+https://vocal-cocada-60177b.netlify.app/
+
+
+https://verdant-custard-bcee40.netlify.app/
+
+Text format 
+installation libraries 
+gradio 
+hugging face 
+python tourchflow 
+java version 
+
